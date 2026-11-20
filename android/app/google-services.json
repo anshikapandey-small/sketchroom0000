@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574565782743",
+    "project_id": "sketchroom-1631c",
+    "storage_bucket": "sketchroom-1631c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574565782743:android:2aa9cc8ec6c276ba4fcc92",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574565782743-sppdg37k2ugrr608s8dqkebnunrhmc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42GV5JBEzf3PFjmjhFIl67gMYTIWqwzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574565782743-sppdg37k2ugrr608s8dqkebnunrhmc7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
