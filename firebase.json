@@ -1,0 +1,5 @@
+{"hosting": {
+  "public": "build/web",
+  "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+  "rewrites": [{ "source": "**", "destination": "/index.html" }]
+},"flutter":{"platforms":{"android":{"default":{"projectId":"sketchroom-1631c","appId":"1:574565782743:android:2aa9cc8ec6c276ba4fcc92","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"sketchroom-1631c","configurations":{"android":"1:574565782743:android:2aa9cc8ec6c276ba4fcc92","web":"1:574565782743:web:c68f2ed2755e7a3e4fcc92"}}}}}}

@@ -1,0 +1,6 @@
+{
+  "name": "Sketchroom",
+  "description": "Learn. Draw. Share. A classroom art and sketching app where teachers create groups with join codes and students join classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
